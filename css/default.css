@@ -1,4 +1,4 @@
-@cherset "UTF-8";
+@charset "UTF-8";
 
 body
 {
@@ -50,7 +50,7 @@ list-style-type:none;
 
 .wepon
 {
-border: 1px solid bule;
+border: 1px solid blue;
 background-color:red;
 text-align:left;
 overflow:auto;
@@ -59,7 +59,7 @@ overflow:auto;
 .armer
 {
 border: 1px solid red;
-background-color:bule;
+background-color:blue;
 text-align:left;
 overflow:auto;
 }
