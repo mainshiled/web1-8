@@ -3,6 +3,7 @@
 body
 {
 background-color:black;
+  background-image;
 }
 
 #logo ul
@@ -48,6 +49,7 @@ list-style-type:none;
 
 .wepon
 {
+  float:left;
 border: 1px solid bule;
 background-color:red;
 text-align:left;
@@ -56,6 +58,7 @@ overflow:auto;
 
 .armer
 {
+  float:left;
 border: 1px solid red;
 background-color:bule;
 text-align:left;
@@ -64,8 +67,14 @@ overflow:auto;
 
 .dna
 {
+  float:left;
 border: 1px solid mistyrose;
 background-color:purple;
 text-align:left;
 overflow:auto;
+}
+
+fotter
+{
+  color:white;
 }
