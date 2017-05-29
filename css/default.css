@@ -2,18 +2,18 @@
 
 body
 {
-background-color:white;
+background-color:black;
 }
 
 #logo ul
 {
-overfolw:hidden;
+overflow:hidden;
 }
 
 #logo li
 {
 float:left;
-font-color:white;
+color:white;
 list-style-type:none;
 }
 
@@ -57,16 +57,16 @@ width:100px;
 .wepon
 {
 border: 1px solid bule;
-background-color:red
-text:left;
+background-color:red;
+text-align:left;
 overflow:auto;
 }
 
 .armer
 {
 border: 1px solid red;
-background-color:bule
-text:left;
+background-color:bule;
+text-align:left;
 overflow:auto;
 }
 
@@ -74,6 +74,6 @@ overflow:auto;
 {
 border: 1px solid mistyrose;
 background-color:purple;
-text:left;
+text-align:left;
 overflow:auto;
 }
