@@ -1,0 +1,79 @@
+@cherset "UTF-8";
+
+body
+{
+background-color:black;
+}
+
+#logo ul
+{
+overfolw:hidden;
+}
+
+#logo li
+{
+float:left;
+font-color:white;
+list-style-type:none;
+}
+
+#logo img
+{
+width: 70px;
+}
+
+#nav ul
+{
+overflow:hidden;
+}
+
+#nav li
+{
+float:left;
+width:120px;
+border-left:red 1px solid;
+list-style-type:none;
+}
+
+#log ul
+{
+overflow:hidden;
+}
+
+#log li
+{
+float:left;
+list-style-type:none;
+}
+
+.equipment
+{
+border: 1px solid green;
+background-color:yellow;
+padding: 5px;
+width:100px;
+}
+
+.wepon
+{
+border: 1px solid bule;
+background-color:red
+text:left;
+overflow:auto;
+}
+
+.armer
+{
+border: 1px solid red;
+background-color:bule
+text:left;
+overflow:auto;
+}
+
+.dna
+{
+border: 1px solid mistyrose;
+background-color:purple;
+text:left;
+overflow:auto;
+}
